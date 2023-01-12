@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=value\ min\ max
+comment1.target=int\ clamp(int,\ int,\ int)
+comment2.params=cX\ cY\ s_l\ s_h\ sub_x\ sub_y
+comment2.target=int\ intersect(int,\ int,\ int,\ int,\ int,\ int)
+numComments=3
