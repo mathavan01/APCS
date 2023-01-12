@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=TownsPerson(int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=x
+comment3.target=void\ setX(int)
+comment4.params=y
+comment4.target=void\ setY(int)
+comment5.params=x
+comment5.target=void\ setStory(int)
+comment6.params=
+comment6.target=int\ getStory()
+comment7.params=diologue\ monstersKilled\ hero\ b\ t\ s
+comment7.target=java.lang.String\ diologue(int,\ int,\ Hero,\ java.util.List,\ java.util.List,\ java.util.Scanner)
+numComments=8

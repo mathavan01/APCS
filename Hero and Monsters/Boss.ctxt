@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=x\ y\ atk\ speed\ health\ direction\ money\ hero
+comment0.target=Boss(int,\ int,\ int,\ int,\ int,\ int,\ int,\ Hero)
+numComments=1

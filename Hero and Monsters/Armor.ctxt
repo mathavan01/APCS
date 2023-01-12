@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=damageAbsorption\ name
+comment0.target=Armor(double,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=double\ getAbsorption()
+comment4.params=absorption
+comment4.target=void\ setAbsorption(double)
+numComments=5

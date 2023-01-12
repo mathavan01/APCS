@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=dmg\ name\ crit_rate\ crit_damage
+comment0.target=Weapon(int,\ java.lang.String,\ int,\ double)
+comment1.params=
+comment1.target=int\ getDamage()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getCRate()
+comment4.params=
+comment4.target=double\ getCDmg()
+numComments=5

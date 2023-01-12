@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=x\ y\ hero\ atk\ speed\ health\ direction\ money
+comment0.target=Monster(int,\ int,\ Hero,\ int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=x
+comment3.target=void\ setX(int)
+comment4.params=y
+comment4.target=void\ setY(int)
+comment5.params=scaner\ hero
+comment5.target=int\ fight(java.util.Scanner,\ Hero)
+comment6.params=dmg\ hero
+comment6.target=boolean\ damage(int,\ Hero)
+numComments=7
