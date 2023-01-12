@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=f\ l\ u\ p\ pb\ bb
+comment0.target=Client(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ float,\ float)
+comment1.params=
+comment1.target=double\ getPersonalBalance()
+comment10.params=account
+comment10.target=void\ balance(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=double\ getBuisnessBalance()
+comment3.params=
+comment3.target=java.lang.String\ getUsername()
+comment4.params=
+comment4.target=java.lang.String\ getPassword()
+comment5.params=
+comment5.target=java.lang.String\ getFullName()
+comment6.params=
+comment6.target=java.lang.String\ getFirstName()
+comment7.params=
+comment7.target=java.lang.String\ getLastName()
+comment8.params=money\ account
+comment8.target=void\ deposit(double,\ java.lang.String)
+comment9.params=money\ account
+comment9.target=void\ withdrawal(double,\ java.lang.String)
+numComments=12
