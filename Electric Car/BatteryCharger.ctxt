@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=rateTable
+comment0.target=BatteryCharger(int[])
+comment1.params=startHour\ chargeTime
+comment1.target=int\ getChargingCost(int,\ int)
+comment2.params=chargeTime
+comment2.target=int\ getChargeStartTime(int)
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=samples
+comment0.target=Sound(int[])
+comment1.params=limit
+comment1.target=int\ limitAmplitude(int)
+comment2.params=
+comment2.target=void\ trimSilenceFromBeginning()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

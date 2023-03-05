@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=dist\ numHops
+comment0.target=FrogSimulation(int,\ int)
+comment1.params=
+comment1.target=int\ hopDistance()
+comment2.params=
+comment2.target=boolean\ simulate()
+comment3.params=num
+comment3.target=double\ runSimulations(int)
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=num
+comment0.target=boolean\ isSelfDivisor(int)
+comment1.params=start\ num
+comment1.target=int[]\ firstNumSelfDivisors(int,\ int)
+numComments=2

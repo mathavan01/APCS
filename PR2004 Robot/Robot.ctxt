@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=hall\ pos
+comment0.target=Robot(int[],\ int)
+comment1.params=
+comment1.target=boolean\ forwardMoveBlocked()
+comment2.params=
+comment2.target=void\ move()
+comment3.params=
+comment3.target=int\ clearHall()
+comment4.params=
+comment4.target=boolean\ hallIsClear()
+numComments=5

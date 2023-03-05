@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=stepThreshold
+comment0.target=StepTracker(int)
+comment1.params=steps
+comment1.target=void\ addDailySteps(int)
+comment2.params=
+comment2.target=int\ activeDays()
+comment3.params=
+comment3.target=double\ averageSteps()
+numComments=4
